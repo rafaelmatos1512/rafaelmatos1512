@@ -2,9 +2,9 @@
 
 Sou um desenvolvedor iniciante com paixão por aprender novas tecnologias. Aqui estão algumas coisas sobre mim:
 
-- 🌱 Estou no 5 periodo de Ciência da Computação na Universidade Estácio de Sá 
-- 💼 Atualmente tenho contrato como jovem aprendiz administrativo na Magazine Luiza, e estou em busca de adiquirir meu primeiro estágio na minha área.
-- 📚 Meus interesses incluem estagios na area  de Desenvolvimento Web, Inteligência Artificial e Análise e banco de Dados
+- 🌱 Estou no 5 periodo de Ciência da Computação na Universidade Estácio de Sá.
+- 💼 Atualmente trabalho terceirizado em uma empresa como Estágiario de dados junior.
+- 📚 Meus interesses incluem estágios na area de Desenvolvimento Web, Inteligência Artificial e Análise e banco de Dados.
 
 ## Projetos Recentes
 
