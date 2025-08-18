@@ -2,13 +2,13 @@
 
 Sou um desenvolvedor iniciante com paixão por aprender novas tecnologias. Aqui estão algumas coisas sobre mim:
 
-- 🌱 Estou no 5 periodo de Ciência da Computação na Universidade Estácio de Sá.
+- 🌱 Estou no 6 periodo de Ciência da Computação na Universidade Estácio de Sá.
 - 💼 Atualmente trabalho terceirizado em uma empresa como Estágiario de dados junior.
 - 📚 Meus interesses incluem estágios na area de Desenvolvimento Web, Inteligência Artificial e Análise e banco de Dados.
 
 ## Projetos Recentes
 
-- [Projeto 1] () - 
+- [Projeto 1] () - https://github.com/rafaelmatos1512/IntegraDev
 - [Projeto 2] () - 
 
 ### Vamos conversar!
